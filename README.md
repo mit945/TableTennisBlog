@@ -32,7 +32,7 @@ ArticleList = [
 	{
 		name: "my-article",
 		upvotes: 0,
-        comments: [],
+		comments: [],
 	},
 	{...},
 	{...},
