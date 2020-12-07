@@ -4,7 +4,7 @@
 
 ## Link :
 
- Aws EC2 Link: ec2-52-43-246-104.us-west-2.compute.amazonaws.com
+ Aws EC2 Link: [ec2-52-43-246-104.us-west-2.compute.amazonaws.com](http://ec2-52-43-246-104.us-west-2.compute.amazonaws.com)
 
 ## Application Feature
 
@@ -15,27 +15,27 @@
 ## Tasks
 
   - [x] `Create-react-app` for froent-end
-  - [x] Import React Router to set up resources for backend uses 
+  - [x] Import React Router to set up routes for forntend
   - [x] Create 404 Page 
   - [x] Set up Express server on set up get/post routes  
-  - [x] Import data in JSON and check status through Postman
-  - [x] Create Upvote functions
-  - [x] Commenting functionality
+  - [x] Import data in JSON format and check request logs  through Postman
+  - [x] Create upvotes functions
+  - [x] Create comment functions
   - [x] Edit About page and Home page with CSS
   - [x] Deploy via EC2 instance
 
-## Article structure in MongoDB 
+## Data structure 
 
 ```javascript 
 
 ArticleList = [
-	{
-		name: "my-article",
-		upvotes: 0,
-		comments: [],
-	},
-	{...},
-	{...},
+{
+	name: "my-article",
+	upvotes: 0,
+	comments: [],
+},
+{...},
+{...},
 ]
 
 ```  
