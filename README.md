@@ -8,7 +8,7 @@
 
 ## Application Feature
 
-   - Other article links suggested within an article 
+   - Other article links suggested under each article page
    - Allow user to upvote an article 
    - Allow user to comment 
 
@@ -29,13 +29,13 @@
 ```javascript 
 
 ArticleList = [
-{
+  {
 	name: "my-article",
 	upvotes: 0,
 	comments: [],
-},
-{...},
-{...},
+  },
+  {...},
+  {...},
 ]
 
 ```  
