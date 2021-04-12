@@ -2,9 +2,6 @@
 
  A platform for table tennis players to communicate idea via comments and upvotes.
 
-## Link :
-
- Aws EC2 Link: [ec2-52-43-246-104.us-west-2.compute.amazonaws.com](http://ec2-52-43-246-104.us-west-2.compute.amazonaws.com)
 
 ## Application Feature
 
