@@ -1,29 +1,36 @@
 #TableTennisBlog
 
- A platform for table tennis players to communicate idea via comments and upvotes.
-
+A platform for table tennis players to communicate idea via comments and upvotes.
 
 ## Application Feature
 
-   - Other article links suggested under each article page
-   - Allow user to upvote an article 
-   - Allow user to comment 
+- Other article links suggested under each article page
+- Allow user to upvote an article
+- Allow user to comment
 
-## Tasks
+## Usage
 
-  - [x] `Create-react-app` for froent-end
-  - [x] Import React Router to set up routes for forntend
-  - [x] Create 404 Page 
-  - [x] Set up Express server on set up get/post routes  
-  - [x] Import data in JSON format and check request logs  through Postman
-  - [x] Create upvotes functions
-  - [x] Create comment functions
-  - [x] Edit About page and Home page with CSS
-  - [x] Deploy via EC2 instance
+1. Clone the app
 
-## Data structure 
+```
+git clone https://github.com/mit945/TableTennisBlog.git
+```
 
-```javascript 
+2. Install Express
+
+```
+npm i express
+```
+
+3. Run the app
+
+```
+npm start
+```
+
+## Data structure
+
+```javascript
 
 ArticleList = [
   {
@@ -35,7 +42,8 @@ ArticleList = [
   {...},
 ]
 
-```  
+```
+
 ## License
-  
+
 Copyright (c) 2019 I-han Chang
