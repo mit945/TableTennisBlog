@@ -1,4 +1,4 @@
-#TableTennisBlog
+# TableTennisBlog
 
 A platform for table tennis players to communicate idea via comments and upvotes.
 
@@ -19,6 +19,7 @@ git clone https://github.com/mit945/TableTennisBlog.git
 2. Install Express
 
 ```
+cd TableTennisBlog
 npm i express
 ```
 
